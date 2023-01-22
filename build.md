@@ -13,8 +13,7 @@ Patches: revanced-patches-2.156.0.jar
 
   
 **App Versions:**  
-YouTube: 17.49.37  
-Music (arm-v7a): 5.39.52  
+Music-arm (arm-v7a): 5.40.51  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
