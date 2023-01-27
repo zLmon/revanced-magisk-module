@@ -1,6 +1,6 @@
 {
-  "version": "v5.39.52",
-  "versionCode": 5,
-  "zipUrl": "https://github.com/zLmon/revanced-magisk-module/releases/download/5/music-revanced-magisk-v5.39.52-arm-v7a.zip",
+  "version": "v5.41.50",
+  "versionCode": 6,
+  "zipUrl": "https://github.com/zLmon/revanced-magisk-module/releases/download/6/music-revanced-extended-magisk-v5.41.50-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/zLmon/revanced-magisk-module/update/build.md"
 }

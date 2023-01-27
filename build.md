@@ -1,21 +1,37 @@
 CLI: revanced-cli-2.21.0-all.jar  
-Integrations: revanced-integrations-0.93.1.apk  
-Patches: revanced-patches-2.156.0.jar  
+Integrations: app-release-unsigned.apk  
+Patches: revanced-patches-2.156.4.jar  
 
-### [2.156.0](https://github.com/revanced/revanced-patches/compare/v2.155.0...v2.156.0) (2023-01-17)
-### Bug Fixes
-* **reddit/general-reddit-ads:** specify last version that works correctly ([#1495](https://github.com/revanced/revanced-patches/issues/1495)) ([2a3bedd](https://github.com/revanced/revanced-patches/commit/2a3bedd5608d2f23b174c4227ac167e44e54215e))
-### Features
-* explain how to capture crash logs [skip ci] ([f938ba8](https://github.com/revanced/revanced-patches/commit/f938ba81ec98f06f508dbdceeabd29a0ea7bf1af))
-* **id-austria:** `remove-root-detection` patch ([3cf77cd](https://github.com/revanced/revanced-patches/commit/3cf77cdb4ebbd128d29eedefa1ee35289e3c8058))
-* **id-austria:** `spoof-signature` patch ([355a847](https://github.com/revanced/revanced-patches/commit/355a847b1ccd69c4ab2c356395c97b4871e53f1f))
-* **nova-launcher:** `unlock-prime` patch ([#1463](https://github.com/revanced/revanced-patches/issues/1463)) ([cf710b2](https://github.com/revanced/revanced-patches/commit/cf710b27740cce4b9a0fbdf03a494eb8c65246da))
+YouTube
+==
+- add `hide-live-chat-button` patch https://github.com/revanced/revanced-patches/pull/869
+- add `hide-next-button` , `hide-prev-button` patches (player controller)  https://github.com/inotia00/ReVanced_Extended/issues/23
+- fix: `hide suggestions` setting removes playlists shelf from new layout (a/b test) https://github.com/inotia00/ReVanced_Extended/issues/180
+- fix: bug related to swipe gesture https://github.com/inotia00/ReVanced_Extended/issues/176 https://github.com/inotia00/ReVanced_Extended/issues/178
+- refactor: brightness values for swipe gestures are now remembered (same as Vanced's swipe gesture brightness) https://github.com/inotia00/ReVanced_Extended/issues/154
 
+- crowdin translation update
+`Arabic`, `Chinese Simplified`, `French`, `Indonesian`, `Japanese`, `Russian`, `Vietnamese`
+
+YouTube Music
+==
+- crowdin translation update
+`Hungarian`, `Thai`
+
+ETC
+==
+- add support YouTube v18.02.37
+- cleanup
+
+※ Compatible ReVanced Manager: v0.0.53
+※ If you want to contribute to the translation, refer below
+
+[Crowdin translation]
+- [european countries](https://crowdin.com/project/revancedextendedeu)
+- [other countries](https://crowdin.com/project/revancedextended)
   
 **App Versions:**  
-YouTube: 17.49.37  
-Music (arm-v7a): 5.39.52  
-
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
+YouTube: 18.02.37  
+Music (arm-v7a): 5.41.50  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
