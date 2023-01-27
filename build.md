@@ -32,6 +32,6 @@ ETC
   
 **App Versions:**  
 YouTube: 18.02.37  
-Music (arm-v7a): 5.41.50  
+Music (arm64-v8a): 5.41.50  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
