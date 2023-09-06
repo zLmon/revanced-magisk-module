@@ -74,6 +74,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/appest-inc/ticktick-to-do-list-
 apkmirror-arch = "arm64-v8a"
 
 [Tasker]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/joaomgcd/tasker/"
 
 [Photomath]
